@@ -5,10 +5,6 @@ public class Q1 {
 
         System.out.println("Hello Java I maade ");
 
-
-
-        System.out.println("Hello");
-
         System.out.println("second statement");
     }
 }
